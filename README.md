@@ -4,6 +4,6 @@ This is a Discord.js bot made using **Javascript** and the **Public Mojang API**
 
 ## Getting Started 🚀
 
-1. **Clone the Repository:**
+**Clone the Repository:**
    ```bash
-   git clone https://github.com/danisotosol/mineapi.git
+   git clone https://github.com/danisotosol/mineapi/blob/master/index.js
